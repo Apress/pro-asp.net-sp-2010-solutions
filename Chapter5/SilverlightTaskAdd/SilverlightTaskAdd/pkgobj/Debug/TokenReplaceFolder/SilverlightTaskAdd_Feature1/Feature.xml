@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="5d166f91-f9c8-40c7-9ef3-7a8d0072dd52" Scope="Web" Title="SilverlightTaskAdd Feature1">
+  <ElementManifests>
+    <ElementManifest Location="Module1\Elements.xml" />
+    <ElementFile Location="Module1\SilverlightTaskAdder.xap" />
+  </ElementManifests>
+</Feature>

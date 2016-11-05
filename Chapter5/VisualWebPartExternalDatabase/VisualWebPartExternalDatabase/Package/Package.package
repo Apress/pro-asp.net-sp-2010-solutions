@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="f71d97c6-7d71-456c-baaf-d568ce59ca08" solutionId="f71d97c6-7d71-456c-baaf-d568ce59ca08" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="VisualWebPartExternalDatabase">
+    <features>
+        <featureReference itemId="330bce76-1e27-4d20-9730-21df046c64c7" />
+    </features>
+</package>

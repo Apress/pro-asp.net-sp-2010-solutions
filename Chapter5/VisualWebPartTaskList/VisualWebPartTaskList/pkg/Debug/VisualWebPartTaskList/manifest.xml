@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="05146384-cd9b-4ba0-a3a9-1d02f25e738c" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="VisualWebPartTaskList.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="VisualWebPartTaskList, Version=1.0.0.0, Culture=neutral, PublicKeyToken=4507acb37f52cedf" Namespace="VisualWebPartTaskList.VisualWebPart1" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\VisualWebPartTaskList\TaskWebPart\VisualWebPart1UserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="VisualWebPartTaskList_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

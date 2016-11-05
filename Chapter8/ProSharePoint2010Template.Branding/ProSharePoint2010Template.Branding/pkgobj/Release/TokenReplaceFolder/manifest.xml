@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ccfb2390-a28f-46f5-8fdc-dcccda53ec4e" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="ProSharePoint2010Template.Branding.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\01.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\02.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\03.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\blockcontentbullets.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\blockcontent_h.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\blockcontent_s.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\blockcontent_v.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\blockheader.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\button.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\contact.jpg" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\footer_b.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\footer_s.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\footer_t.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\header.jpg" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\header.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\link photo.txt" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\menuitem.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\menuseparator.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\nav.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\page_g.jpg" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\page_gl.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\page_sg.jpg" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\page_t.jpg" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\postbullets.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\postheadericon.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\postquote.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\post_h.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\post_s.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\post_v.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\rssicon.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\sheet_c.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\sheet_h.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\sheet_s.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\sheet_v.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\spacer.gif" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\subitem.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\vmenublockcontent_h.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\vmenublockcontent_s.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\vmenublockcontent_v.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\vmenublockheader.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\vmenuitem.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\VS.png" />
+    <TemplateFile Location="Images\ProSharePoint2010Template.Branding\vsubitem.gif" />
+    <TemplateFile Location="Layouts\ProSharePoint2010Template.Branding\pencilblue.css" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="ProSharePoint2010Template.Branding_ProSPBranding\Feature.xml" />
+  </FeatureManifests>
+</Solution>

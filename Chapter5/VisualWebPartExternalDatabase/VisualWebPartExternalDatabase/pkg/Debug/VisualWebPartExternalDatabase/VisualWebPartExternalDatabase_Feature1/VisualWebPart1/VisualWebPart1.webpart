@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="VisualWebPartExternalDatabase.VisualWebPart1.VisualWebPart1, VisualWebPartExternalDatabase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d3574d165d9c54c0" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">VisualWebExternalData</property>
+        <property name="Description" type="string">Web Part for retrieving Sales Order Information from AdventureWorks.</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

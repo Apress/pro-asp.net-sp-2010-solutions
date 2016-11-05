@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e720acaa-4dbb-4cf4-b24b-c55a7b90110a" solutionId="e720acaa-4dbb-4cf4-b24b-c55a7b90110a" resetWebServer="false" name="SPClientObjectModelECMA" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="29e89622-fb32-40b6-98a5-487c8874b094" />
+  </projectItems>
+</package>

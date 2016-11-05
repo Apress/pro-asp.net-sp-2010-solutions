@@ -1,0 +1,1 @@
+bin\Release\ProSharePoint2010Template.Branding.wsp

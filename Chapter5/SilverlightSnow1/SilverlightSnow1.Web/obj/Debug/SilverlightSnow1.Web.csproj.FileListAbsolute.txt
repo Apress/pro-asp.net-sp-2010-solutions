@@ -1,0 +1,5 @@
+D:\dev\SilverlightSnow1\SilverlightSnow1.Web\bin\SilverlightSnow1.Web.dll
+D:\dev\SilverlightSnow1\SilverlightSnow1.Web\bin\SilverlightSnow1.Web.pdb
+D:\dev\SilverlightSnow1\SilverlightSnow1.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\SilverlightSnow1\SilverlightSnow1.Web\obj\Debug\SilverlightSnow1.Web.dll
+D:\dev\SilverlightSnow1\SilverlightSnow1.Web\obj\Debug\SilverlightSnow1.Web.pdb

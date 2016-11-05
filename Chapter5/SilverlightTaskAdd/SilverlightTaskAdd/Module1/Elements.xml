@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Module1" Url="Apps">
+<File Path="Module1\SilverlightTaskAdder.xap" Url="Module1/SilverlightTaskAdder.xap" />
+</Module>
+</Elements>

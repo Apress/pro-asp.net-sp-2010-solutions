@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="My Visual WebPart Feature" Id="330bce76-1e27-4d20-9730-21df046c64c7" ReceiverAssembly="VisualWebPartExternalDatabase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d3574d165d9c54c0" ReceiverClass="VisualWebPartExternalDatabase.Features.Feature1.Feature1EventReceiver" Scope="Site" Title="VisualWebPartExternalDatabase Feature1">
+  <ElementManifests>
+    <ElementManifest Location="VisualWebPart1\Elements.xml" />
+    <ElementFile Location="VisualWebPart1\VisualWebPart1.webpart" />
+    <ElementFile Location="VisualWebPart1\ConnectionStrings.xml" />
+  </ElementManifests>
+</Feature>

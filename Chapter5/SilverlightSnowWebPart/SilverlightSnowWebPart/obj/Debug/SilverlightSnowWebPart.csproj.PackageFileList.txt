@@ -1,0 +1,1 @@
+bin\Debug\SilverlightSnowWebPart.wsp

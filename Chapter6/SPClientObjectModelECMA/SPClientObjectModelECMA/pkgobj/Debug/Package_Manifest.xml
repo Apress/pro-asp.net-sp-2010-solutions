@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e720acaa-4dbb-4cf4-b24b-c55a7b90110a" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SPClientObjectModelECMA.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\SPClientObjectModelECMA\ClientOMECMA.aspx" />
+    <TemplateFile Location="Layouts\SPClientObjectModelECMA\TaskList.js" />
+  </TemplateFiles>
+</Solution>

@@ -1,0 +1,15 @@
+D:\dev\BdcModelEvents\BdcModelEvents\bin\Debug\BdcModelEvents.dll
+D:\dev\BdcModelEvents\BdcModelEvents\bin\Debug\BdcModelEvents.pdb
+D:\dev\BdcModelEvents\BdcModelEvents\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\BdcModelEvents\BdcModelEvents\obj\Debug\BdcModelEvents.dll
+D:\dev\BdcModelEvents\BdcModelEvents\obj\Debug\BdcModelEvents.pdb
+\\DLS-HOMESERVER\Users\Dave\dev\dev\BdcModelEvents\BdcModelEvents\bin\Debug\BdcModelEvents.dll
+\\DLS-HOMESERVER\Users\Dave\dev\dev\BdcModelEvents\BdcModelEvents\bin\Debug\BdcModelEvents.pdb
+\\DLS-HOMESERVER\Users\Dave\dev\dev\BdcModelEvents\BdcModelEvents\obj\Debug\ResolveAssemblyReference.cache
+\\DLS-HOMESERVER\Users\Dave\dev\dev\BdcModelEvents\BdcModelEvents\obj\Debug\BdcModelEvents.dll
+\\DLS-HOMESERVER\Users\Dave\dev\dev\BdcModelEvents\BdcModelEvents\obj\Debug\BdcModelEvents.pdb
+C:\dev\APress\Chapter7\BdcModelEvents\BdcModelEvents\bin\Debug\BdcModelEvents.dll
+C:\dev\APress\Chapter7\BdcModelEvents\BdcModelEvents\bin\Debug\BdcModelEvents.pdb
+C:\dev\APress\Chapter7\BdcModelEvents\BdcModelEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\APress\Chapter7\BdcModelEvents\BdcModelEvents\obj\Debug\BdcModelEvents.dll
+C:\dev\APress\Chapter7\BdcModelEvents\BdcModelEvents\obj\Debug\BdcModelEvents.pdb

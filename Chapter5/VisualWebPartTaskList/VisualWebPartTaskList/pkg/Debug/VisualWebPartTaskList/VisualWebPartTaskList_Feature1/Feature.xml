@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="My Visual WebPart Feature" Id="46c40aa6-e7ee-4f42-aade-6467357a79f3" Scope="Site" Title="VisualWebPartTaskList Feature1" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="TaskWebPart\Elements.xml" />
+    <ElementFile Location="TaskWebPart\VisualWebPart1.webpart" />
+  </ElementManifests>
+</Feature>

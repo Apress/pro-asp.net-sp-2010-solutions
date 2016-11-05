@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[Events] (
+    [EventID]          INT            NULL,
+    [EventName]        NVARCHAR (50)  NULL,
+    [EventDescription] NVARCHAR (500) NULL,
+    [EventVenue]       NVARCHAR (100) NULL,
+    [EventDate]        DATE           NULL
+);
+

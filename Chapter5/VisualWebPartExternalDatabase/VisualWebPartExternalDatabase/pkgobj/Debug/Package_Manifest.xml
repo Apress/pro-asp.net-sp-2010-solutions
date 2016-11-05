@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="f71d97c6-7d71-456c-baaf-d568ce59ca08" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="VisualWebPartExternalDatabase.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="VisualWebPartExternalDatabase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d3574d165d9c54c0" Namespace="VisualWebPartExternalDatabase.VisualWebPart1" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\VisualWebPartExternalDatabase\VisualWebPart1\VisualWebPart1UserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="VisualWebPartExternalDatabase_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

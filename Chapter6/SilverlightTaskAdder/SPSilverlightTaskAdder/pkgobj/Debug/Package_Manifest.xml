@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="6f1d9220-33cd-4686-a3d7-803cd5428540" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SPSilverlightTaskAdder.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SPSilverlightTaskAdder_SilverlightTaskAdder\Feature.xml" />
+  </FeatureManifests>
+</Solution>

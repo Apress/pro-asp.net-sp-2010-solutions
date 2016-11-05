@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/windows/2007/BusinessDataCatalog" Name="BdcModel1">
+  <LobSystems>
+    <LobSystem Name="BdcModel1" Type="DotNetAssembly">
+      <LobSystemInstances>
+        <LobSystemInstance Name="BdcModel1" />
+      </LobSystemInstances>
+      <Entities>
+        <Entity Name="EventEntity" Namespace="BdcModelEvents.BdcModel1" EstimatedInstanceCount="1000" Version="1.0.0.34">
+          <Properties>
+            <Property Name="Class" Type="System.String">BdcModelEvents.BdcModel1.EventService, BdcModel1</Property>
+          </Properties>
+          <Identifiers>
+            <Identifier Name="EventID" TypeName="System.Int32" />
+            <!-- TODO: Change the name of the ID and if needed the TypeName of your identifier. -->
+          </Identifiers>
+          <Methods>
+            <!-- start finder method -->
+            <Method Name="ReadList">
+              <!-- TODO: Change the name of the method if needed. -->
+              <Parameters>
+                <Parameter Direction="Return" Name="returnParameter">
+                  <TypeDescriptor TypeName="System.Collections.Generic.IEnumerable`1[[BdcModelEvents.BdcModel1.Event, BdcModel1]]" IsCollection="true" Name="EventEntityList">
+                    <TypeDescriptors>
+                      <TypeDescriptor TypeName="BdcModelEvents.BdcModel1.Event, BdcModel1" Name="EventEntity">
+                        <TypeDescriptors>
+                          <TypeDescriptor TypeName="System.Int32" IdentifierName="EventID" Name="EventID" />
+                          <TypeDescriptor TypeName="System.String" Name="EventName" />
+                          <!-- TODO: Add TypeDescriptors when you add properties to Entity1. -->
+                          <TypeDescriptor Name="EventDescription" TypeName="System.String" />
+                          <TypeDescriptor Name="EventDate" TypeName="System.DateTime" /></TypeDescriptors>
+                      </TypeDescriptor>
+                    </TypeDescriptors>
+                  </TypeDescriptor>
+                </Parameter>
+              </Parameters>
+              <MethodInstances>
+                <MethodInstance Type="Finder" ReturnParameterName="returnParameter" Default="true" Name="ReadList" DefaultDisplayName="Entity1 List" />
+              </MethodInstances>
+            </Method>
+            <!-- end finder method -->
+            <!-- start specific finder method -->
+            <Method Name="ReadItem">
+              <Parameters>
+                <Parameter Direction="In" Name="id">
+                  <TypeDescriptor TypeName="System.Int32" IdentifierName="EventID" Name="EventID" />
+                </Parameter>
+                <Parameter Direction="Return" Name="returnParameter">
+                  <TypeDescriptor TypeName="BdcModelEvents.BdcModel1.Event, BdcModel1" Name="EventEntity">
+                    <TypeDescriptors>
+                      <TypeDescriptor TypeName="System.Int32" IdentifierName="EventID" Name="EventID" />
+                      <TypeDescriptor TypeName="System.String" Name="EventName" />
+                      <!-- TODO: Add TypeDescriptors when you add properties to Entity1. -->
+                      <TypeDescriptor Name="EventDescription" TypeName="System.String" />
+                      <TypeDescriptor Name="EventVenue" TypeName="System.String" />
+                      <TypeDescriptor Name="EventDate" TypeName="System.DateTime" IsCollection="false" /></TypeDescriptors>
+                  </TypeDescriptor>
+                </Parameter>
+              </Parameters>
+              <MethodInstances>
+                <MethodInstance Type="SpecificFinder" ReturnParameterName="returnParameter" Default="true" Name="ReadItem" DefaultDisplayName="Read Entity1" />
+              </MethodInstances>
+            </Method>
+            <Method Name="Delete">
+              <Parameters>
+                <Parameter Name="eventID" Direction="In">
+                  <TypeDescriptor Name="EventID" TypeName="System.Int32" IdentifierEntityName="EventEntity" IdentifierEntityNamespace="BdcModelEvents.BdcModel1" IdentifierName="EventID" IsCollection="false" /></Parameter>
+              </Parameters>
+              <MethodInstances>
+                <MethodInstance Name="Delete" Type="Deleter" />
+              </MethodInstances></Method>
+            <Method Name="Update">
+              <Parameters>
+                <Parameter Name="eventEntity" Direction="In">
+                  <TypeDescriptor Name="EventEntity" TypeName="BdcModelEvents.BdcModel1.Event, BdcModel1">
+                    <TypeDescriptors>
+                      <TypeDescriptor Name="EventID" IdentifierName="EventID" TypeName="System.Int32" UpdaterField="true" />
+                      <TypeDescriptor Name="EventName" TypeName="System.String" UpdaterField="true" />
+                      <TypeDescriptor Name="EventDescription" TypeName="System.String" UpdaterField="true" />
+                      <TypeDescriptor Name="EventVenue" TypeName="System.String" UpdaterField="true" />
+                      <TypeDescriptor Name="EventDate" IsCollection="false" TypeName="System.DateTime" UpdaterField="true" /></TypeDescriptors></TypeDescriptor></Parameter>
+              </Parameters>
+              <MethodInstances>
+                <MethodInstance Name="Update" Type="Updater" />
+              </MethodInstances></Method>
+            <Method Name="Create">
+              <Parameters>
+                <Parameter Name="returnEventEntity" Direction="Return">
+                  <TypeDescriptor Name="ReturnEventEntity" TypeName="BdcModelEvents.BdcModel1.Event, BdcModel1">
+                    <TypeDescriptors>
+                      <TypeDescriptor Name="EventID" IdentifierName="EventID" TypeName="System.Int32" />
+                      <TypeDescriptor Name="EventName" TypeName="System.String" />
+                      <TypeDescriptor Name="EventDescription" TypeName="System.String" />
+                      <TypeDescriptor Name="EventVenue" TypeName="System.String" />
+                      <TypeDescriptor Name="EventDate" IsCollection="false" TypeName="System.DateTime" /></TypeDescriptors></TypeDescriptor></Parameter>
+                <Parameter Name="newEventEntity" Direction="In">
+                  <TypeDescriptor Name="NewEventEntity" TypeName="BdcModelEvents.BdcModel1.Event, BdcModel1">
+                    <TypeDescriptors>
+                      <TypeDescriptor Name="EventID" IdentifierName="EventID" TypeName="System.Int32" CreatorField="true" />
+                      <TypeDescriptor Name="EventName" TypeName="System.String" CreatorField="true" />
+                      <TypeDescriptor Name="EventDescription" TypeName="System.String" CreatorField="true" />
+                      <TypeDescriptor Name="EventVenue" TypeName="System.String" CreatorField="true" />
+                      <TypeDescriptor Name="EventDate" IsCollection="false" TypeName="System.DateTime" CreatorField="true" /></TypeDescriptors></TypeDescriptor></Parameter>
+              </Parameters>
+              <MethodInstances>
+                <MethodInstance Name="Create" Type="Creator" ReturnParameterName="returnEventEntity" ReturnTypeDescriptorPath="ReturnEventEntity" />
+              </MethodInstances></Method>
+            <!-- end specific finder method -->
+          </Methods>
+        </Entity>
+      </Entities>
+    </LobSystem>
+  </LobSystems>
+</Model>

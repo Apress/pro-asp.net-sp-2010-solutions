@@ -1,0 +1,5 @@
+D:\dev\APress\Chapter6\SilverlightTasks\SPSilverlightTasks\bin\Debug\SPSilverlightTasks.dll
+D:\dev\APress\Chapter6\SilverlightTasks\SPSilverlightTasks\bin\Debug\SPSilverlightTasks.pdb
+D:\dev\APress\Chapter6\SilverlightTasks\SPSilverlightTasks\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\APress\Chapter6\SilverlightTasks\SPSilverlightTasks\obj\Debug\SPSilverlightTasks.dll
+D:\dev\APress\Chapter6\SilverlightTasks\SPSilverlightTasks\obj\Debug\SPSilverlightTasks.pdb

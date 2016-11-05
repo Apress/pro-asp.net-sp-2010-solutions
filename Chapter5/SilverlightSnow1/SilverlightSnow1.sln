@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightSnow1", "SilverlightSnow1\SilverlightSnow1.csproj", "{525F3ABD-D5D5-4DE0-BB52-C12F1061C213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightSnow1.Web", "SilverlightSnow1.Web\SilverlightSnow1.Web.csproj", "{DAB5F02A-01B0-4F0C-9471-642A832BDEDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{525F3ABD-D5D5-4DE0-BB52-C12F1061C213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525F3ABD-D5D5-4DE0-BB52-C12F1061C213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525F3ABD-D5D5-4DE0-BB52-C12F1061C213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525F3ABD-D5D5-4DE0-BB52-C12F1061C213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB5F02A-01B0-4F0C-9471-642A832BDEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB5F02A-01B0-4F0C-9471-642A832BDEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB5F02A-01B0-4F0C-9471-642A832BDEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB5F02A-01B0-4F0C-9471-642A832BDEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

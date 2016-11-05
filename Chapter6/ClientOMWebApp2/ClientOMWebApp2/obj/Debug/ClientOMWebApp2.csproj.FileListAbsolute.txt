@@ -1,0 +1,5 @@
+D:\dev\APress\Chapter6\ClientOMWebApp2\ClientOMWebApp2\bin\ClientOMWebApp2.dll
+D:\dev\APress\Chapter6\ClientOMWebApp2\ClientOMWebApp2\bin\ClientOMWebApp2.pdb
+D:\dev\APress\Chapter6\ClientOMWebApp2\ClientOMWebApp2\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\APress\Chapter6\ClientOMWebApp2\ClientOMWebApp2\obj\Debug\ClientOMWebApp2.dll
+D:\dev\APress\Chapter6\ClientOMWebApp2\ClientOMWebApp2\obj\Debug\ClientOMWebApp2.pdb

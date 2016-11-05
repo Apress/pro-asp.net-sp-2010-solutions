@@ -1,0 +1,5 @@
+D:\dev\APress\Chapter5\SilverlightSnowWebPart\SilverlightSnowWebPart\bin\Debug\SilverlightSnowWebPart.dll
+D:\dev\APress\Chapter5\SilverlightSnowWebPart\SilverlightSnowWebPart\bin\Debug\SilverlightSnowWebPart.pdb
+D:\dev\APress\Chapter5\SilverlightSnowWebPart\SilverlightSnowWebPart\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\APress\Chapter5\SilverlightSnowWebPart\SilverlightSnowWebPart\obj\Debug\SilverlightSnowWebPart.dll
+D:\dev\APress\Chapter5\SilverlightSnowWebPart\SilverlightSnowWebPart\obj\Debug\SilverlightSnowWebPart.pdb

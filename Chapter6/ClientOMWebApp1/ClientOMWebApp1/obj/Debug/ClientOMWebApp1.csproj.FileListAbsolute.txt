@@ -1,0 +1,10 @@
+D:\dev\APress\Chapter6\ClientOMWebApp1\ClientOMWebApp1\bin\ClientOMWebApp1.dll
+D:\dev\APress\Chapter6\ClientOMWebApp1\ClientOMWebApp1\bin\ClientOMWebApp1.pdb
+D:\dev\APress\Chapter6\ClientOMWebApp1\ClientOMWebApp1\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\APress\Chapter6\ClientOMWebApp1\ClientOMWebApp1\obj\Debug\ClientOMWebApp1.dll
+D:\dev\APress\Chapter6\ClientOMWebApp1\ClientOMWebApp1\obj\Debug\ClientOMWebApp1.pdb
+C:\dev\APress\Chapter6\ClientOMWebApp1\ClientOMWebApp1\bin\ClientOMWebApp1.dll
+C:\dev\APress\Chapter6\ClientOMWebApp1\ClientOMWebApp1\bin\ClientOMWebApp1.pdb
+C:\dev\APress\Chapter6\ClientOMWebApp1\ClientOMWebApp1\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\APress\Chapter6\ClientOMWebApp1\ClientOMWebApp1\obj\Debug\ClientOMWebApp1.dll
+C:\dev\APress\Chapter6\ClientOMWebApp1\ClientOMWebApp1\obj\Debug\ClientOMWebApp1.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="bd9e26cc-ae9b-45fc-98df-a962dfbfdcf5" solutionId="bd9e26cc-ae9b-45fc-98df-a962dfbfdcf5" resetWebServer="false" name="SilverlightTaskAdd" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="83979066-1be0-4400-b12e-daf3ea151c82" />
+  </features>
+</package>

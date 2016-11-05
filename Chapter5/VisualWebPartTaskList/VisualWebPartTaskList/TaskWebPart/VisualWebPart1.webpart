@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="VisualWebPartTaskList.VisualWebPart1.VisualWebPart1, $SharePoint.Project.AssemblyFullName$" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">TaskAddWebPart</property>
+        <property name="Description" type="string">Add a Task to your Tasks List</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

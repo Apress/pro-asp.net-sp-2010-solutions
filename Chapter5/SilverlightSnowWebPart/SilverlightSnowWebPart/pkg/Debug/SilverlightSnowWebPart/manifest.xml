@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="5b37a83e-4af4-48d4-8511-345cb7686295" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SilverlightSnowWebPart.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SilverlightSnowWebPart_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

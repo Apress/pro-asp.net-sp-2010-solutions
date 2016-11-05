@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="aba99a7b-7989-4db6-9a0c-0181c2211820" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="WebPartTaskList.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="WebPartTaskList, Version=1.0.0.0, Culture=neutral, PublicKeyToken=aefdf6d2f44fe429" Namespace="WebPartTaskList.TaskListAdd" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="WebPartTaskList_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Creator="Dave Milner" Description="This feature deploys the new PencilBlue web brand." Id="88dc198c-d050-49f6-bc9e-2d67a50e80dd" Scope="Web" Title="ProSharePoint2010Template.Branding PencilBlue">
+  <ElementManifests>
+    <ElementManifest Location="PencilBlue\Elements.xml" />
+    <ElementFile Location="PencilBlue\PencilBlue.master" />
+  </ElementManifests>
+</Feature>

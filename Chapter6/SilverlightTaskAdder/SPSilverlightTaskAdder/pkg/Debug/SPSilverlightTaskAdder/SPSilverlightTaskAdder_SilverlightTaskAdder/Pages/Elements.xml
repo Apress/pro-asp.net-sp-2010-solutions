@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Pages" Url="SitePages">
+    <File Path="Pages\default.aspx" Url="SilverlightTaskAdderTest.aspx" Type="GhostableInLibrary" >
+      <AllUsersWebPart WebPartOrder="1"
+                 WebPartZoneID="Left"
+                 ID="SilverlightExternalService">
+        <![CDATA[ 
+  <webParts>
+    <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+      <metaData>
+        <type name="Microsoft.SharePoint.WebPartPages.SilverlightWebPart, 
+                    Microsoft.SharePoint, Version=14.0.0.0, 
+                    Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+        <importErrorMessage>Cannot import this WebPart. 
+        </importErrorMessage>
+      </metaData>
+      <data>
+        <properties>
+          <property name="HelpUrl" type="string" />
+          <property name="AllowClose" type="bool">True</property>
+          <property name="ExportMode" type="exportmode">All</property>
+          <property name="Hidden" type="bool">False</property>
+          <property name="AllowEdit" type="bool">True</property>
+          <property name="Direction" type="direction">NotSet</property>
+          <property name="TitleIconImageUrl" type="string" />
+          <property name="AllowConnect" type="bool">True</property>
+          <property name="HelpMode" type="helpmode">Modal</property>
+          <property name="CustomProperties" type="string" null="true" />
+          <property name="AllowHide" type="bool">True</property>
+          <property name="Description" type="string">A web part to display 
+                          a Silverlight application.</property>
+          <property name="CatalogIconImageUrl" type="string" />
+          <property name="MinRuntimeVersion" type="string" null="true" />
+          <property name="ApplicationXml" type="string" />
+          <property name="AllowMinimize" type="bool">True</property>
+          <property name="AllowZoneChange" type="bool">True</property>
+          <property name="CustomInitParameters" type="string" null="true"/>
+          <property name="Height" type="unit">300px</property>
+          <property name="ChromeType" type="chrometype">Default</property>
+          <property name="Width" type="unit">325px</property>
+          <property name="Title" type="string">Silverlight Task Adder 
+                          </property>
+          <property name="ChromeState" type="chromestate">Normal</property>
+          <property name="TitleUrl" type="string" />
+          <property name="Url" type="string">
+                   ~site/Apps/Silverlight/SilverlightTaskAdder.xap</property>
+          <property name="WindowlessMode" type="bool">True</property>
+        </properties>
+      </data>
+    </webPart>
+  </webParts> ]]>
+      </AllUsersWebPart>
+    </File>
+</Module>
+</Elements>

@@ -1,0 +1,9 @@
+﻿<xapCache source="C:\dev\APress\Chapter6\SilverlightTaskAdder\SilverlightTaskAdder\Bin\Debug\SilverlightTaskAdder.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="8/31/2010 4:12:47 AM">
+  <file source="C:\dev\APress\Chapter6\SilverlightTaskAdder\SilverlightTaskAdder\obj\Debug\SilverlightTaskAdder.dll" archivePath="SilverlightTaskAdder.dll" lastWriteTime="8/31/2010 4:12:46 AM" />
+  <file source="C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\14\TEMPLATE\LAYOUTS\ClientBin\Microsoft.SharePoint.Client.Silverlight.dll" archivePath="Microsoft.SharePoint.Client.Silverlight.dll" lastWriteTime="3/26/2010 10:15:28 PM" />
+  <file source="C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\14\TEMPLATE\LAYOUTS\ClientBin\Microsoft.SharePoint.Client.Silverlight.Runtime.dll" archivePath="Microsoft.SharePoint.Client.Silverlight.Runtime.dll" lastWriteTime="3/26/2010 10:16:02 PM" />
+  <file source="c:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Data.Input.dll" archivePath="System.Windows.Controls.Data.Input.dll" lastWriteTime="4/1/2010 12:46:10 AM" />
+  <file source="c:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="4/1/2010 12:46:10 AM" />
+  <file source="c:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll" archivePath="System.ComponentModel.DataAnnotations.dll" lastWriteTime="4/1/2010 12:46:10 AM" />
+  <file source="C:\dev\APress\Chapter6\SilverlightTaskAdder\SilverlightTaskAdder\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="8/24/2010 8:26:52 PM" />
+</xapCache>

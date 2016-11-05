@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="b96bce05-6ee1-48b8-b650-a54d0addb5ce" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SPSilverlightTasks.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SPSilverlightTasks_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

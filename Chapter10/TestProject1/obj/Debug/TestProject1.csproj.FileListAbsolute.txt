@@ -1,0 +1,6 @@
+C:\dev\APress\Chapter10\TestProject1\bin\Debug\AdventureWorksWeb.webtest
+C:\dev\APress\Chapter10\TestProject1\bin\Debug\TestProject1.dll
+C:\dev\APress\Chapter10\TestProject1\bin\Debug\TestProject1.pdb
+C:\dev\APress\Chapter10\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\APress\Chapter10\TestProject1\obj\Debug\TestProject1.dll
+C:\dev\APress\Chapter10\TestProject1\obj\Debug\TestProject1.pdb

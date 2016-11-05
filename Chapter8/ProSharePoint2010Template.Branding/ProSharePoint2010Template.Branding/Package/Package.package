@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ccfb2390-a28f-46f5-8fdc-dcccda53ec4e" solutionId="ccfb2390-a28f-46f5-8fdc-dcccda53ec4e" resetWebServer="false" name="ProSharePoint2010Template.Branding" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="bacbc8e5-8438-4385-88e3-2a0eab910400" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="8341d7f2-3e5d-4ba0-99f8-c37af14b4e96" />
+    <projectItemReference itemId="ac6ede80-92f7-4f6a-8134-c60046132ba5" />
+  </projectItems>
+</package>

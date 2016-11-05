@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="My SharePoint BDC Feature" Id="07f30aff-aae1-4558-881b-d95410f2c193" ReceiverAssembly="Microsoft.Office.SharePoint.ClientExtensions, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" ReceiverClass="Microsoft.Office.SharePoint.ClientExtensions.Deployment.ImportModelReceiver" Scope="Farm" Title="BdcModelEvents">
+  <Properties>
+    <Property Key="GloballyAvailable" Value="true" />
+    <Property Key="BdcModel1" Value="BdcAssemblies\BdcModelEvents.dll" />
+    <Property Key="IncrementalUpdate" Value="true" />
+    <Property Key="ModelFileName" Value="BdcModel1\BdcModel1.bdcm" />
+    <Property Key="SiteUrl" Value="http://portal/" />
+  </Properties>
+  <ElementManifests>
+    <ElementFile Location="BdcModel1\BdcModel1.bdcm" />
+    <ElementFile Location="BdcAssemblies\BdcModelEvents.dll" />
+  </ElementManifests>
+</Feature>

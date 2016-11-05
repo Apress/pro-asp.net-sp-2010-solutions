@@ -1,0 +1,5 @@
+C:\dev\APress\Chapter8\ProSharePoint2010Template.Branding\ProSharePoint2010Template.Branding\bin\Release\ProSharePoint2010Template.Branding.dll
+C:\dev\APress\Chapter8\ProSharePoint2010Template.Branding\ProSharePoint2010Template.Branding\bin\Release\ProSharePoint2010Template.Branding.pdb
+C:\dev\APress\Chapter8\ProSharePoint2010Template.Branding\ProSharePoint2010Template.Branding\obj\Release\ResolveAssemblyReference.cache
+C:\dev\APress\Chapter8\ProSharePoint2010Template.Branding\ProSharePoint2010Template.Branding\obj\Release\ProSharePoint2010Template.Branding.dll
+C:\dev\APress\Chapter8\ProSharePoint2010Template.Branding\ProSharePoint2010Template.Branding\obj\Release\ProSharePoint2010Template.Branding.pdb

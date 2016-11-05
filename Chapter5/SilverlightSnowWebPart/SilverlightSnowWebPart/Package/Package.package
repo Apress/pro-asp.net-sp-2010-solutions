@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="5b37a83e-4af4-48d4-8511-345cb7686295" solutionId="5b37a83e-4af4-48d4-8511-345cb7686295" resetWebServer="false" name="SilverlightSnowWebPart" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="851a2626-35ed-4a4f-9574-85b5cf5c4336" />
+  </features>
+</package>

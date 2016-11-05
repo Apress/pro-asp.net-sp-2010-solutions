@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{089CFDBD-B6BD-4D1D-B03A-146D7D8992C6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProSharePoint2010Template.Branding</RootNamespace>
+    <AssemblyName>ProSharePoint2010Template.Branding</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BB1F664B-9266-4fd6-B973-E1E44974B511};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SandboxedSolution>False</SandboxedSolution>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.SharePoint" />
+    <Reference Include="Microsoft.SharePoint.Security" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Features\ProSPBranding\ProSPBranding.feature">
+      <FeatureId>{bacbc8e5-8438-4385-88e3-2a0eab910400}</FeatureId>
+    </None>
+    <None Include="Images\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{8341d7f2-3e5d-4ba0-99f8-c37af14b4e96}</SharePointProjectItemId>
+    </None>
+    <None Include="key.snk" />
+    <None Include="Layouts\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{ac6ede80-92f7-4f6a-8134-c60046132ba5}</SharePointProjectItemId>
+    </None>
+    <None Include="Package\Package.package">
+      <PackageId>{ccfb2390-a28f-46f5-8fdc-dcccda53ec4e}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+    </None>
+    <None Include="PencilBlue\PencilBlue.master" />
+    <None Include="PencilBlue\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{01c757c3-f8f6-47f8-bf5b-0243ecbd6375}</SharePointProjectItemId>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Features\ProSPBranding\ProSPBranding.Template.xml">
+      <DependentUpon>ProSPBranding.feature</DependentUpon>
+    </Content>
+    <Content Include="Images\ProSharePoint2010Template.Branding\01.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\02.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\03.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\blockcontentbullets.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\blockcontent_h.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\blockcontent_s.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\blockcontent_v.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\blockheader.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\button.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\contact.jpg" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\footer_b.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\footer_s.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\footer_t.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\header.jpg" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\header.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\link photo.txt" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\menuitem.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\menuseparator.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\nav.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\page_g.jpg" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\page_gl.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\page_sg.jpg" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\page_t.jpg" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\postbullets.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\postheadericon.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\postquote.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\post_h.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\post_s.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\post_v.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\rssicon.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\sheet_c.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\sheet_h.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\sheet_s.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\sheet_v.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\spacer.gif" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\subitem.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\vmenublockcontent_h.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\vmenublockcontent_s.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\vmenublockcontent_v.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\vmenublockheader.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\vmenuitem.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\VS.png" />
+    <Content Include="Images\ProSharePoint2010Template.Branding\vsubitem.gif" />
+    <Content Include="Layouts\ProSharePoint2010Template.Branding\pencilblue.css" />
+    <Content Include="PencilBlue\Elements.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" />
+</Project>

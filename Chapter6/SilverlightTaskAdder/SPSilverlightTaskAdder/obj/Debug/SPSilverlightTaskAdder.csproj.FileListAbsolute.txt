@@ -1,0 +1,10 @@
+D:\dev\APress\Chapter6\SilverlightTaskAdder\SPSilverlightTaskAdder\bin\Debug\SPSilverlightTaskAdder.dll
+D:\dev\APress\Chapter6\SilverlightTaskAdder\SPSilverlightTaskAdder\bin\Debug\SPSilverlightTaskAdder.pdb
+D:\dev\APress\Chapter6\SilverlightTaskAdder\SPSilverlightTaskAdder\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\APress\Chapter6\SilverlightTaskAdder\SPSilverlightTaskAdder\obj\Debug\SPSilverlightTaskAdder.dll
+D:\dev\APress\Chapter6\SilverlightTaskAdder\SPSilverlightTaskAdder\obj\Debug\SPSilverlightTaskAdder.pdb
+C:\dev\APress\Chapter6\SilverlightTaskAdder\SPSilverlightTaskAdder\bin\Debug\SPSilverlightTaskAdder.dll
+C:\dev\APress\Chapter6\SilverlightTaskAdder\SPSilverlightTaskAdder\bin\Debug\SPSilverlightTaskAdder.pdb
+C:\dev\APress\Chapter6\SilverlightTaskAdder\SPSilverlightTaskAdder\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\APress\Chapter6\SilverlightTaskAdder\SPSilverlightTaskAdder\obj\Debug\SPSilverlightTaskAdder.dll
+C:\dev\APress\Chapter6\SilverlightTaskAdder\SPSilverlightTaskAdder\obj\Debug\SPSilverlightTaskAdder.pdb

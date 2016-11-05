@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Silverlight\" Type="ElementManifest" />
+    <ProjectOutputFile ProjectId="919f1e1f-873b-4594-a323-7ec05a4a1fe2" ProjectPath="..\SilverlightTasks\SilverlightTasks.csproj" Target="Silverlight\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

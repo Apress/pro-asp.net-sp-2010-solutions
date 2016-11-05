@@ -1,0 +1,5 @@
+D:\dev\APress\Chapter5\VisualWebPartTaskList\VisualWebPartTaskList\bin\Debug\VisualWebPartTaskList.dll
+D:\dev\APress\Chapter5\VisualWebPartTaskList\VisualWebPartTaskList\bin\Debug\VisualWebPartTaskList.pdb
+D:\dev\APress\Chapter5\VisualWebPartTaskList\VisualWebPartTaskList\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\APress\Chapter5\VisualWebPartTaskList\VisualWebPartTaskList\obj\Debug\VisualWebPartTaskList.dll
+D:\dev\APress\Chapter5\VisualWebPartTaskList\VisualWebPartTaskList\obj\Debug\VisualWebPartTaskList.pdb

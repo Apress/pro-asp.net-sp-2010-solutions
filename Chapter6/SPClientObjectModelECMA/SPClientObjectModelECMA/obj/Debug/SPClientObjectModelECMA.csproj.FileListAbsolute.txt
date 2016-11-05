@@ -1,0 +1,5 @@
+D:\dev\APress\Chapter6\SPClientObjectModelECMA\SPClientObjectModelECMA\bin\Debug\SPClientObjectModelECMA.dll
+D:\dev\APress\Chapter6\SPClientObjectModelECMA\SPClientObjectModelECMA\bin\Debug\SPClientObjectModelECMA.pdb
+D:\dev\APress\Chapter6\SPClientObjectModelECMA\SPClientObjectModelECMA\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\APress\Chapter6\SPClientObjectModelECMA\SPClientObjectModelECMA\obj\Debug\SPClientObjectModelECMA.dll
+D:\dev\APress\Chapter6\SPClientObjectModelECMA\SPClientObjectModelECMA\obj\Debug\SPClientObjectModelECMA.pdb

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="9f16525a-7014-458a-9415-bebed5285760" Scope="Web" Title="SilverlightSnowWebPart Feature1">
+  <ElementManifests>
+    <ElementManifest Location="Module1\Elements.xml" />
+    <ElementFile Location="Module1\SilverlightSnow1.xap" />
+  </ElementManifests>
+</Feature>

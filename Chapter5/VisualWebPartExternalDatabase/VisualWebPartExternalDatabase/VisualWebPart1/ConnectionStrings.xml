@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<connectionStrings>
+  <add name="AdventureWorks"
+       connectionString="data source=DAVE-LAPTOP3;Integrated Security=SSPI;Initial Catalog=AdventureWorksLT2008R2"
+       providerName="System.Data.SqlClient" />
+</connectionStrings>

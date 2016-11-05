@@ -1,0 +1,5 @@
+D:\dev\APress\Chapter5\VisualWebPartExternalDatabase\VisualWebPartExternalDatabase\bin\Debug\VisualWebPartExternalDatabase.dll
+D:\dev\APress\Chapter5\VisualWebPartExternalDatabase\VisualWebPartExternalDatabase\bin\Debug\VisualWebPartExternalDatabase.pdb
+D:\dev\APress\Chapter5\VisualWebPartExternalDatabase\VisualWebPartExternalDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\APress\Chapter5\VisualWebPartExternalDatabase\VisualWebPartExternalDatabase\obj\Debug\VisualWebPartExternalDatabase.dll
+D:\dev\APress\Chapter5\VisualWebPartExternalDatabase\VisualWebPartExternalDatabase\obj\Debug\VisualWebPartExternalDatabase.pdb
